@@ -1,0 +1,6 @@
+{
+  "name": "PULSE — Personal Fitness Goals & Performance Dashboard",
+  "description": "An intuitive personal fitness dashboard to track target goals, body composition, workout volume, daily habits, and PR milestones with interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
